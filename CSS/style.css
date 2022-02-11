@@ -339,6 +339,15 @@ ul li:hover {
 	width: 60%;
  }
  
+ 
+ #staticimage {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 60%;
+ }
+ 
+ 
  #welcomeText {
 	margin: auto;
 	display: flex;
